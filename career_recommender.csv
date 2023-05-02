@@ -1,0 +1,133 @@
+Name,sex,Grade,Percentage,Career Category,Hobby,Interest,Career Recommendation
+John,M,E.E (Exceeds Exp),91,Science engineering and technology,hiking,coding,science engineering and technology
+Sarah,F,A.E (Appr Exp),53,Social sciences,reading,art,social sciences
+Michael,M,B.E (Below Exp),22,Arts and sport science,playing chess,poetry,arts and sports science
+Jessica,F,M.E (Meet Exp),77,Science engineering and technology,playing chess,coding,science engineering and technology
+David,M,M.E (Meet Exp),73,Social sciences,writing poetry,poetry,social sciences
+Emily,F,A.E (Appr Exp),60,Arts and sport science,dancing,dancing,arts and sports science
+James,M,E.E (Exceeds Exp),83,Science engineering and technology,playing video games,gaming,science engineering and technology
+Sophia,F,B.E (Below Exp),15,Arts and sport science,drawing,drawing,arts and sports science
+Daniel,M,A.E (Appr Exp),57,Social sciences,reading,sports,social sciences
+Isabella,F,M.E (Meet Exp),72,Science engineering and technology,reading,music,science engineering and technology
+Ethan,M,E.E (Exceeds Exp),94,Social sciences,playing guitar,music,social sciences
+Olivia,F,A.E (Appr Exp),59,Arts and sport science,painting,art,arts and sports science
+William,M,B.E (Below Exp),43,Science engineering and technology,music,swimming,not qualified
+Ava,F,M.E (Meet Exp),68,Arts and sport science,cooking,baking,social sciences
+Benjamin,M,M.E (Meet Exp),75,Science engineering and technology,programming,sports,science engineering and technology
+Mia,F,A.E (Appr Exp),62,Social sciences,watching documentaries,art,social sciences
+Alexander,M,E.E (Exceeds Exp),86,Arts and sport science,playing basketball,sports,arts and sports science
+Charlotte,F,B.E (Below Exp),37,Science engineering and technology,music,drawing,not qualified
+Jacob,M,M.E (Meet Exp),78,Social sciences,reading,sports,social sciences
+Amelia,F,A.E (Appr Exp),53,Arts and sport science,playing piano,art,arts and sports science
+Noah,M,E.E (Exceeds Exp),90,Science engineering and technology,programming,coding,science engineering and technology
+Harper,F,A.E (Appr Exp),58,Social sciences,watching documentaries,sports,social sciences
+Ryan,M,B.E (Below Exp),26,Arts and sport science,playing video games,painting,arts and sports science
+Evelyn,F,M.E (Meet Exp),70,Science engineering and technology,playing video games,coding,game developer
+Lucas,M,M.E (Meet Exp),71,Social sciences,reading,painting,social sciences
+Abigail,F,A.E (Appr Exp),55,Arts and sport science,music,drawing,arts and sports science
+Ethan,M,E.E (Exceeds Exp),88,Science engineering and technology,hiking,chess,science engineering and technology
+Grace,F,B.E (Below Exp),47,Social sciences,playing guitar,poetry,not qualified
+Logan,M,M.E (Meet Exp),79,Arts and sport science,dancing,dancing,arts and sports science
+Chloe,F,A.E (Appr Exp),61,Science engineering and technology,playing video games,gaming,game developer
+Samuel,M,E.E (Exceeds Exp),82,Social sciences,watching movies,drawing,social sciences
+Zoey,F,A.E (Appr Exp),54,Arts and sport science,watching documentaries,sports,social sciences
+Jackson,M,B.E (Below Exp),31,Science engineering and technology,playing piano,music,not qualified
+Madison,F,M.E (Meet Exp),74,Social sciences,playing guitar,music,arts and sports science
+Aiden,M,M.E (Meet Exp),76,Arts and sport science,painting,painting,arts and sports science
+Lillian,F,A.E (Appr Exp),63,Science engineering and technology,playing video games,gaming,science engineering and technology
+Jayden,M,E.E (Exceeds Exp),96,Social sciences,cooking,baking,social sciences
+Natalie,F,B.E (Below Exp),45,Arts and sport science,playing guitar,music,arts and sports science
+Gabriel,M,M.E (Meet Exp),80,Science engineering and technology,programming,coding,science engineering and technology
+Elizabeth,F,A.E (Appr Exp),51,Social sciences,watching documentaries,sports,social sciences
+Caleb,M,E.E (Exceeds Exp),87,Arts and sport science,gymnastics,poetry,arts and sports science
+Victoria,F,A.E (Appr Exp),56,Science engineering and technology,swimming,coding,science engineering and technology
+Isaac,M,B.E (Below Exp),39,Social sciences,practicing yoga,painting,not qualified
+Matthew,M,E.E (Exceeds Exp),92,Science engineering and technology,playing chess,coding,science engineering and technology
+Amelia,F,A.E (Appr Exp),55,Social sciences,watching movies,art,social sciences
+Jason,M,B.E (Below Exp),20,Arts and sport science,playing video games,baking,not qualified
+Rachel,F,M.E (Meet Exp),76,Science engineering and technology,programming,coding,science engineering and technology
+Nicholas,M,E.E (Exceeds Exp),88,Social sciences,writing,drawing,journalism
+Natalie,F,A.E (Appr Exp),58,Arts and sport science,drawing,drawing,arts and sports science
+Kevin,M,B.E (Below Exp),28,Science engineering and technology,playing soccer,swimming,not qualified
+Madison,F,M.E (Meet Exp),81,Social sciences,watching documentaries,music,social sciences
+Thomas,M,E.E (Exceeds Exp),90,Arts and sport science,playing basketball,sports,arts and sports science
+Elizabeth,F,A.E (Appr Exp),61,Science engineering and technology,playing video games,art,science engineering and technology
+Jacob,M,B.E (Below Exp),42,Social sciences,playing soccer,sports,not qualified
+Victoria,F,M.E (Meet Exp),74,Arts and sport science,cooking,baking,arts and sports science
+Samuel,M,E.E (Exceeds Exp),93,Science engineering and technology,playing video games,gaming,science engineering and technology
+Grace,F,A.E (Appr Exp),57,Social sciences,watching documentaries,drawing,social sciences
+Ethan,M,B.E (Below Exp),39,Arts and sport science,playing basketball,sports,not qualified
+Chloe,F,M.E (Meet Exp),79,Science engineering and technology,coding,piano,science engineering and technology
+Samuel,M,E.E (Exceeds Exp),96,Social sciences,playing guitar,music,social sciences
+Liam,M,M.E (Meet Exp),79,Science engineering and technology,reading,music,science engineering and technology
+Sophia,F,B.E (Below Exp),29,Social sciences,playing piano,cooking,not qualified
+Benjamin,M,E.E (Exceeds Exp),92,Arts and sport science,playing soccer,sports,arts and sports science
+Alexander,M,B.E (Below Exp),31,Social sciences,playing basketball,sports,not qualified
+Olivia,F,M.E (Meet Exp),77,Arts and sport science,dancing,dance,arts and sports science
+Ava,F,A.E (Appr Exp),60,Social sciences,reading,music,social sciences
+James,M,B.E (Below Exp),48,Arts and sport science,music,sports,not qualified
+Isabella,F,M.E (Meet Exp),82,Science engineering and technology,coding,music,science engineering and technology
+Ethan,M,E.E (Exceeds Exp),96,Social sciences,reading,music,social sciences
+Mia,F,A.E (Appr Exp),63,Arts and sport science,painting,art,arts and sports science
+Michael,M,B.E (Below Exp),39,Science engineering and technology,playing basketball,sports,not qualified
+Charlotte,F,M.E (Meet Exp),80,Social sciences,painting,art,social sciences
+Daniel,M,E.E (Exceeds Exp),87,Arts and sport science,playing basketball,sports,arts and sports science
+Emily,F,B.E (Below Exp),24,Science engineering and technology,dancing,dance,not qualified
+Liam,M,M.E (Meet Exp),79,Science engineering and technology,reading,music,science engineering and technology
+Sophia,F,B.E (Below Exp),29,Social sciences,watching tv,cooking,not qualified
+Benjamin,M,E.E (Exceeds Exp),92,Arts and sport science,playing soccer,sports,arts and sports science
+Alexander,M,B.E (Below Exp),31,Social sciences,playing basketball,sports,not qualified
+Olivia,F,M.E (Meet Exp),77,Arts and sport science,dancing,dance,arts and sports science
+Ava,F,A.E (Appr Exp),60,Social sciences,hiking,music,social sciences
+James,M,B.E (Below Exp),48,Arts and sport science,playing basketball,sports,not qualified
+Isabella,F,M.E (Meet Exp),82,Science engineering and technology,reading,music,science engineering and technology
+Ethan,M,E.E (Exceeds Exp),96,Social sciences,playing guitar,music,social sciences
+Mia,F,A.E (Appr Exp),63,Arts and sport science,painting,art,arts and sports science
+Michael,M,B.E (Below Exp),39,Science engineering and technology,playing soccer,sports,not qualified
+Charlotte,F,M.E (Meet Exp),80,Social sciences,painting,art,social sciences
+Daniel,M,E.E (Exceeds Exp),87,Arts and sport science,music,sports,arts and sports science
+Emily,F,B.E (Below Exp),24,Science engineering and technology,dancing,dance,not qualified
+Emily,F,A.E (Appr Exp),65,Science engineering and technology,watching tv,music,science engineering and technology
+Jacob,M,B.E (Below Exp),49,Social sciences,watching movies,swimming,not qualified
+Madison,F,M.E (Meet Exp),77,Arts and sport science,playing volleyball,dancing,arts and sports science
+Aiden,M,A.E (Appr Exp),60,Arts and sport science,playing video games,painting,arts and sports science
+Avery,F,E.E (Exceeds Exp),91,Science engineering and technology,playing guitar,coding,science engineering and technology
+Isaac,M,B.E (Below Exp),45,Arts and sport science,biking,sports,not qualified
+Elizabeth,F,M.E (Meet Exp),73,Social sciences,watching documentaries,music,social sciences
+Luke,M,A.E (Appr Exp),56,Science engineering and technology,reading,sports,science engineering and technology
+Lila,F,A.E (Appr Exp),58,Arts and sport science,music,painting,arts and sports science
+Carter,M,E.E (Exceeds Exp),92,Science engineering and technology,playing video games,coding,science engineering and technology
+Ethan,M,M.E (Meet Exp),79,Science engineering and technology,playing basketball,coding,science engineering and technology
+Hazel,F,A.E (Appr Exp),62,Arts and sport science,playing soccer,painting,arts and sports science
+Noah,M,A.E (Appr Exp),63,Social sciences,watching documentaries,music,social sciences
+Makayla,F,B.E (Below Exp),48,Science engineering and technology,playing volleyball,sports,not qualified
+Landon,M,M.E (Meet Exp),76,Arts and sport science,playing football,sports,arts and sports science
+Natalie,F,E.E (Exceeds Exp),88,Social sciences,watching documentaries,music,social sciences
+Jackson,M,B.E (Below Exp),41,Science engineering and technology,playing video games,gaming,not qualified
+Aria,F,M.E (Meet Exp),75,Arts and sport science,playing volleyball,painting,arts and sports science
+Oscar,M,A.E (Appr Exp),59,Science engineering and technology,reading,sports,science engineering and technology
+Sarah,F,A.E (Appr Exp),56,Science engineering and technology,drawing,art,mechanical engineering
+Michael,M,B.E (Below Exp),31,Arts and sport science,photography,painting,fashion design
+Rachel,F,M.E (Meet Exp),77,Social sciences,dancing,music,law enforcement
+Tom,M,E.E (Exceeds Exp),96,Science engineering and technology,playing video games,coding,aerospace engineering
+Emily,F,M.E (Meet Exp),69,Arts and sport science,painting,skating,art therapy
+Jason,M,A.E (Appr Exp),53,Social sciences,writing,poetry,human resources
+Megan,F,B.E (Below Exp),22,Science engineering and technology,coding,writing,technical support
+Ryan,M,E.E (Exceeds Exp),87,Science engineering and technology,robotics,coding,electrical engineering
+Lily,F,B.E (Below Exp),45,Social sciences,singing,music,teaching
+Andrew,M,M.E (Meet Exp),72,Arts and sport science,football,writing,sports medicine
+Ava,F,E.E (Exceeds Exp),93,Science engineering and technology,chess,chess,computer engineering
+Ethan,M,A.E (Appr Exp),59,Arts and sport science,sculpting,swimming,technical support
+Olivia,F,B.E (Below Exp),14,Social sciences,reading,music,not recommended
+Jacob,M,E.E (Exceeds Exp),88,Science engineering and technology,playing video games,coding,mechanical engineering
+Mia,F,M.E (Meet Exp),70,Arts and sport science,dancing,music,dance therapy
+William,M,A.E (Appr Exp),54,Science engineering and technology,cooking,baking,food science
+Natalie,F,B.E (Below Exp),37,Social sciences,writing,poetry,not recommended
+Matthew,M,M.E (Meet Exp),73,Arts and sport science,drawing,photography,graphic design
+Grace,F,E.E (Exceeds Exp),98,Science engineering and technology,coding,chess,software engineering
+David,M,B.E (Below Exp),42,Social sciences,hiking,swimming,park ranger
+Sophia,F,M.E (Meet Exp),78,Arts and sport science,music,poetry,music therapy
+James,M,A.E (Appr Exp),57,Science engineering and technology,playing video games,coding,video game development
+Chloe,F,B.E (Below Exp),26,Social sciences,painting,drawing,not recommended
+Mark,M,B.E (Below Exp),1,Social sciences,painting,coding,not recommended
+Kim,M,B.E (Below Exp),0,Arts and sport science,painting,drawing,not recommended
